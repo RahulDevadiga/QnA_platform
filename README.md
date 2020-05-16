@@ -12,7 +12,7 @@
 9.  Like answers (ajax is used here to avoid reloading page).
 10. Search for questions (by username or question).
 11. Autocomplete feature. (Use of debouncing to reduce network calls).
-
+12. Pagination
 
 # Link to project : 
 http://rahuldevadiga1.pythonanywhere.com/
