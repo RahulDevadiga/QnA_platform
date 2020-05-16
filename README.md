@@ -1,4 +1,18 @@
-A QnA platform where user can add question, add and edit answer, add a profile picture and personal details, login using google oauth2, request for password reset. The responsive UI is made using CSS Flex. It also includes features like like/dislike answers where ajax is used to avoid reloading the page, follow other users and a autocomplete search bar where debouncing feature has been implemented to reduce network calls.
+## QnA application
 
-[Project Link]: http://rahuldevadiga1.pythonanywhere.com/
+# Features of the app include:
+1. Registration and Login
+2. Login using Google+ account (oauth2)
+3. Add a profile feature.
+4. Edit personal details.
+5. Add question (Can add anonymously).
+6. Add answer (Can do it anonymously).
+7. Edit answer.
+8. Follow other users. 
+9. Like answers (ajax is used here to avoid reloading page).
+10. Search for questions (by username or question).
+11. Autocomplete feature. (Use of debouncing to reduce network calls).
+
+
+# Link to project : 
 http://rahuldevadiga1.pythonanywhere.com/
